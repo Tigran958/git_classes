@@ -12,7 +12,11 @@ class Resume:
 
 
 
+<<<<<<< HEAD
 new = "experimental"
+=======
+a = "saasdsdaasdasd"
+>>>>>>> new
 # # my_resume = Resume()
 # # your_resume = Resume()
 
