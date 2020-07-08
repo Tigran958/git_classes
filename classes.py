@@ -1,3 +1,4 @@
+
 class Resume:
 
 	def __init__(self,name,surname):
@@ -8,6 +9,7 @@ class Resume:
 
 
 	company_name = "FreeDOM Data" 
+
 
 
 
