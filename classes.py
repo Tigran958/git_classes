@@ -12,7 +12,7 @@ class Resume:
 
 
 
-a = "s"
+a = "saasdsda"
 # # my_resume = Resume()
 # # your_resume = Resume()
 
