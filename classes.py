@@ -1,13 +1,4 @@
-# # class Resume:
 
-# # 	def __init__(self,name,surname):
-
-# # 		self.applicant_name = name
-# # 		self.applicant_surname = surname
-
-
-
-# # 	company_name = "FreeDOM Data" 
 
 
 
