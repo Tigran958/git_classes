@@ -14,7 +14,7 @@
 # 	elif name.isupper():
 # 		print("Upper")
 
-
+print("hello")
 name = input("enter something and I'll tell you if it is a letter or digit: ")
 
 if name.isalpha():
