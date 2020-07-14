@@ -1,4 +1,4 @@
-# name = input("enter something")
+name = input("enter something")
 
 # if name.isdigit():
 # 	print("digits")
