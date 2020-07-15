@@ -1,7 +1,7 @@
 name = input("enter something")
 
-# if name.isdigit():
-# 	print("digits")
+if name.isdigit():
+	print("digits")
 
 # name = input("enter something")	
 
