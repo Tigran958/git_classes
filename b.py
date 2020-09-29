@@ -1,1 +1,1 @@
-print("Hello from CMD")
+print("Hello from CMD hy there")
