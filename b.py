@@ -1,2 +1,2 @@
 print("Hello from CMD hy there")
-print
+print("I am Tigran")
